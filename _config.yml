@@ -3,9 +3,9 @@ title: Hanyunxuan Blog
 SEOTitle: 韩昀轩的博客 | Hanyunxuan Blog
 header-img: img/home-bg.jpg
 email: hanyunxuan2008@qq.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @韩昀轩 的个人博客，与你一起发现更大的世界。"
+description: "关于前端与设计、黑客与画家 | 韩昀轩，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @韩昀轩 的个人博客，与你一起发现更大的世界。"
 keyword: "韩昀轩, hanyunxuan, @hanyunxuan, 韩昀轩的博客, Hanyunxuan Blog, 博客, 个人网站, 数据分析, 数据挖掘"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://hanyunxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: hanyunxuan
 
 # Netease setttings
 netease_comment: false
@@ -60,7 +60,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: hanyunxuan.me
 
 
 
